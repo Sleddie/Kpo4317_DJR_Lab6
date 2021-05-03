@@ -1,0 +1,12 @@
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\bin\Release\Kpo4317_DJR.Main.exe.config
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\bin\Release\Kpo4317_DJR.Main.exe
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\bin\Release\Kpo4317_DJR.Main.pdb
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.csprojAssemblyReference.cache
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.FrmMain.resources
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.Properties.Resources.resources
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.csproj.GenerateResource.cache
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.exe
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.pdb
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\bin\Release\Kpo4317_DJR.Lib.dll
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\bin\Release\Kpo4317_DJR.Lib.pdb
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Main\obj\Release\Kpo4317_DJR.Main.csproj.CopyComplete

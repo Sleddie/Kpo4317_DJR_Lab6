@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kpo4317_DJR.Main", "Kpo4317_DJR.Main\Kpo4317_DJR.Main.csproj", "{46A305EB-CDB7-4F09-BB6E-6E7059DCB520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kpo4317_DJR.Lib", "Kpo4317_DJR.Lib\Kpo4317_DJR.Lib.csproj", "{3CFAAF60-BB2F-4D7C-BD91-55A4C6F8C780}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46A305EB-CDB7-4F09-BB6E-6E7059DCB520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A305EB-CDB7-4F09-BB6E-6E7059DCB520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A305EB-CDB7-4F09-BB6E-6E7059DCB520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A305EB-CDB7-4F09-BB6E-6E7059DCB520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CFAAF60-BB2F-4D7C-BD91-55A4C6F8C780}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFAAF60-BB2F-4D7C-BD91-55A4C6F8C780}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFAAF60-BB2F-4D7C-BD91-55A4C6F8C780}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFAAF60-BB2F-4D7C-BD91-55A4C6F8C780}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C56E7AE4-37B6-4844-9311-D7FFE8C38082}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\bin\Release\Kpo4317_DJR.Lib.dll
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\bin\Release\Kpo4317_DJR.Lib.pdb
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\obj\Release\Kpo4317_DJR.Lib.dll
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\obj\Release\Kpo4317_DJR.Lib.pdb
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\obj\Release\Kpo4317_DJR.Lib.csprojAssemblyReference.cache
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\obj\Release\Kpo4317_DJR.Lib.FrmSemiConductor.resources
+D:\Seconitory\Coding\C#\Kpo4317_DJR\Kpo4317_DJR.Lib\obj\Release\Kpo4317_DJR.Lib.csproj.GenerateResource.cache
